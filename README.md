@@ -1,2 +1,3 @@
-# Website-Performance-Analyzer
-Website Performance Analyzer in python
+# Website Performance Analyzer 🚀
+
+A simple Python script to analyze website performance. It measures the page load time ⏱️, number of requests 🔄, and resource sizes 📦.
